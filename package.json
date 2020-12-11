@@ -1,0 +1,24 @@
+{
+  "name": "whatsapp-web",
+  "version": "1.0.0",
+  "description": "Project using node js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmarKhoirudin/Whatsapp-web.git"
+  },
+  "author": "Amar Khoirudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmarKhoirudin/Whatsapp-web/issues"
+  },
+  "homepage": "https://github.com/AmarKhoirudin/Whatsapp-web#readme",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.11.1"
+  }
+}
